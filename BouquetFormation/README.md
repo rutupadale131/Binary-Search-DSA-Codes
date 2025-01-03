@@ -20,8 +20,3 @@ arr = [2, 1, 1, 2, 3, 3]
 #### **Output**:
 ```
 2
-```
-
----
-
-If you'd like, I can format this in a specific way or clarify anything further!
